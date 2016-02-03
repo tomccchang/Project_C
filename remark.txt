@@ -1,0 +1,9 @@
+需要realsense SDK
+及其模組如下 
+face_render.cpp
+face_render.h
+util_capture.h
+util_capture_file.h
+util_captureimpl.h
+util_cmdline.h
+util_render.h
